@@ -6,6 +6,8 @@ This is a repository for Object-oriented programming course at UERGS.
 
 Here I will update every code, exercise and tests made in this course. [2022/1].
 
+I'll code in Cpp and C#.
+
 As they say:
 > May the force be with you!
 
